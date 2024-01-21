@@ -19,7 +19,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a skilled engineer specializing in optical systems. I execute design, data analysis, modeling and laboratory techniques to transform concepts into functional prototypes. In my recent roles, I have worked on projects focused on non-intrusive measurements, evaluating performance and safety of optical systems, and preparing and presenting technical reports to clients. 
+
+I offer a well-rounded skill set with experience in CAD, high-speed imaging, prototyping, opto-mechanics, and a background in mechanical engineering, heat transfer, and fluids. 
+
+I am currently exploring new opportunities. Feel free to [connect with me](www.linkedin.com/in/roblesvicente) to initiate discussions about potential collaborations.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
