@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: *Learn, Imagine, Create, Always Growing.*
+subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
