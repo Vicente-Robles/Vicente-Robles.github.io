@@ -23,9 +23,11 @@ I am a skilled engineer specializing in optical systems. I execute design, data 
 
 I offer a well-rounded skill set with experience in CAD, high-speed imaging, prototyping, opto-mechanics, and a background in mechanical engineering, heat transfer, and fluids. 
 
-I am currently exploring new opportunities. Feel free to [connect with me](https://www.linkedin.com/in/roblesvicente/) to initiate discussions about potential collaborations.
+I am currently exploring new opportunities. Connect with me on [LinkedIn](https://www.linkedin.com/in/roblesvicente/) to discussion potential collaborations.
 
-<! --  Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically. -->
+<!---
+  Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+--->
