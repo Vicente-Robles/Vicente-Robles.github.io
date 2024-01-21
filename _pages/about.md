@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'></a>. *Learn, Imagine, Create, Always Growing.*
+subtitle: <a href='#'></a> <i>*Learn, Imagine, Create, Always Growing.*</i>
 
 profile:
   align: right
