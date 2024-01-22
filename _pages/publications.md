@@ -21,11 +21,11 @@ nav_order: 2
   <!-- Add your press-related content here -->
   <ul>
     <li>
-      <strong>2023:</strong> Title: "Empowering Latino/a Students in STEM: My Journey Unveiled"
-<p>Description: Delve into my STEM education experience as a Latino/a student on Latino Community Stage, a platform dedicated to inspiring early interest in STEM fields. [Read my story ](https://example.com/press1](https://www.latinocommunitystage.org/single-post/i-challenge-you-own-this-and-own-a-career-in-stem-vicente-robles)</p>
+      <strong>2021:</strong> "Empowering Latino Students in STEM: My Journey Unveiled"
+<p>Description: Delve into my STEM education experience as a Latino/a student on Latino Community Stage, a platform dedicated to inspiring early interest in STEM fields. [Read my story](https://www.latinocommunitystage.org/single-post/i-challenge-you-own-this-and-own-a-career-in-stem-vicente-robles)</p>
     </li>
     <li>
-      <strong>2021:</strong> Short press description with hyperlink. [Read more](https://example.com/press2)
+      <strong>2020:</strong> Double bubbles pierce with less trouble [Read more](https://news.ucr.edu/articles/2020/04/29/double-bubbles-pierce-less-trouble)
     </li>
     <li>
       <strong>2020:</strong> Short press description with hyperlink. [Read more](https://example.com/press2)
