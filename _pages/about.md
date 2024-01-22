@@ -20,11 +20,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a skilled engineer specializing in optical systems. I execute design, data analysis, modeling and laboratory techniques to transform concepts into functional prototypes. In my recent roles, I have focused on non-intrusive measurements, evaluating performance and safety of optical systems, and drafting and delivering technical reports.
+I am a skilled engineer specializing in optical systems. I execute design, data analysis, modeling and laboratory techniques to transform concepts into functional prototypes. I offer a well-rounded skill set with experience in CAD, high-speed imaging, prototyping, opto-mechanics, and a background in mechanical engineering, heat transfer, and fluid dynamics. 
 
-I offer a well-rounded skill set with experience in CAD, high-speed imaging, prototyping, opto-mechanics, and a background in mechanical engineering, heat transfer, and fluid dynamics. 
-
-I am currently exploring new opportunities!
+<font size="+2"> I am currently exploring new opportunities! </Font>
 
 <!---
   Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
