@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+completed the 2024 San Diego Resolution 10K with a personal best!A simple inline announcement with Markdown emoji! :sparkles: :smile:
