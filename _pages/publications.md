@@ -17,9 +17,15 @@ nav_order: 2
 
 
 <div class="press">
-    <h2>Press</h2>
+  <h2>Press</h2>
   <!-- Add your press-related content here -->
-    {% pressMedia %}
-
-  <p>Include your press articles, information, or links here.</p>
+  <ul>
+    <li>
+      <strong>Month Year:</strong> Short press description with hyperlink. [Read more](https://example.com/press1)
+    </li>
+    <li>
+      <strong>Month Year:</strong> Short press description with hyperlink. [Read more](https://example.com/press2)
+    </li>
+    <!-- Add more press entries as needed -->
+  </ul>
 </div>
