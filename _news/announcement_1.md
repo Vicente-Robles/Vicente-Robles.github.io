@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Returned from Boston to Sunny Southern California!
+Relocated from Boston to the sunny landscapes of Southern California!
