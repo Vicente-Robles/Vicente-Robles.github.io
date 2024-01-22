@@ -24,7 +24,7 @@ social: true # includes social icons at the bottom of the page
 
 <font size="4">I am a skilled engineer specializing in optical systems. I execute design, data analysis, modeling and laboratory techniques to transform concepts into functional prototypes. I offer a well-rounded skill set with experience in CAD, high-speed imaging, prototyping, opto-mechanics, and a background in mechanical engineering, heat transfer, and fluid dynamics. <br><br>
 
-<p style="color: blue;"><font size="+2"> I am currently exploring new opportunities!</p>
+<div align="center"><p style="color: blue;"><font size="+2"><b> I am currently exploring new opportunities!
 
 <!---
   Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
