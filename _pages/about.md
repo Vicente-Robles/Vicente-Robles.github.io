@@ -22,7 +22,7 @@ social: true # includes social icons at the bottom of the page
 <!-- This is an example with space before the first paragraph -->
 <!-- This is an example with space before the first paragraph -->
 
-I am a skilled engineer specializing in optical systems. I execute design, data analysis, modeling and laboratory techniques to transform concepts into functional prototypes. I offer a well-rounded skill set with experience in CAD, high-speed imaging, prototyping, opto-mechanics, and a background in mechanical engineering, heat transfer, and fluid dynamics. 
+<font size="+.5">I am a skilled engineer specializing in optical systems. I execute design, data analysis, modeling and laboratory techniques to transform concepts into functional prototypes. I offer a well-rounded skill set with experience in CAD, high-speed imaging, prototyping, opto-mechanics, and a background in mechanical engineering, heat transfer, and fluid dynamics. 
 
 <font size="+2"> I am currently exploring new opportunities!
 
