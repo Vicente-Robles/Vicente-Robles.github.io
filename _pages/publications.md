@@ -4,7 +4,7 @@ permalink: /Publications/
 title:
 description:
 related_publications: true
-related_press: false
+related_press: true
 nav: true
 nav_order: 2
 ---
