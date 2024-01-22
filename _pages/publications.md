@@ -1,7 +1,7 @@
 ---
 layout: 2sect
 permalink: /Publications/
-title:
+title: Publications
 description:
 related_publications: true
 related_press: true
