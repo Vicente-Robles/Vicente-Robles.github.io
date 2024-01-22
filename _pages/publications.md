@@ -20,10 +20,10 @@ nav_order: 2
   <h2>Press</h2>
   <!-- Add your press-related content here -->
   <ul>
-    <li>
       <strong>2021:</strong> "Empowering Latino Students in STEM: My Journey Unveiled"
 <p>Description: Delve into my STEM education experience as a Latino/a student on Latino Community Stage, a platform dedicated to inspiring early interest in STEM fields. [test](https://www.google.com) [Read](https://www.latinocommunitystage.org/single-post/i-challenge-you-own-this-and-own-a-career-in-stem-vicente-robles)</p>
-    </li>
+      - **2021:** "Empowering Latino Students in STEM: My Journey Unveiled"
+  - *Description:* Delve into my STEM education experience as a Latino/a student on Latino Community Stage, a platform dedicated to inspiring early interest in STEM fields. [test](https://www.google.com) [Read](https://www.latinocommunitystage.org/single-post/i-challenge-you-own-this-and-own-a-career-in-stem-vicente-robles)
     <li>
       <strong>2020:</strong> Double bubbles pierce with less trouble [Read more](https://news.ucr.edu/articles/2020/04/29/double-bubbles-pierce-less-trouble)
     </li>
