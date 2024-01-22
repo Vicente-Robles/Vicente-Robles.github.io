@@ -20,24 +20,24 @@ nav_order: 2
   <h2>Press</h2>
   <!-- Add your press-related content here -->
   <ul>
-      <strong>2021:</strong> "Empowering Latino Students in STEM: My Journey Unveiled"
-<p>Description: Delve into my STEM education experience as a Latino/a student on Latino Community Stage, a platform dedicated to inspiring early interest in STEM fields.
-    <a href="https://www.google.com">test</a> <a href="https://www.latinocommunitystage.org/single-post/i-challenge-you-own-this-and-own-a-career-in-stem-vicente-robles">Read</a>
+      <li>
+          <strong>2021:</strong> "Empowering Latino Students in STEM: My Journey Unveiled"- Delve into my STEM education experience as a Latino/a student on Latino Community Stage, a platform dedicated to inspiring early interest in STEM fields.<a href="https://www.latinocommunitystage.org/single-post/i-challenge-you-own-this-and-own-a-career-in-stem-vicente-robles">Read more.</a>
+        </li>
     <li>
-      <strong>2020:</strong> Double bubbles pierce with less trouble [Read more](https://news.ucr.edu/articles/2020/04/29/double-bubbles-pierce-less-trouble)
-    </li>
-    <li>
-      <strong>2020:</strong> Short press description with hyperlink. [Read more](https://example.com/press2)
-    </li>
+      <strong>2020:</strong> "Double bubbles pierce with less trouble"- Check out this announcement summarizing my research on double bubbles—exciting news: my paper received editor's pick! <a href="https://news.ucr.edu/articles/2020/04/29/double-bubbles-pierce-less-trouble">Read more.</a>(https://news.ucr.edu/articles/2020/04/29/double-bubbles-pierce-less-trouble)
+        </li>
     <li>
       <strong>2020:</strong> Short press description with hyperlink. [Read more](https://example.com/press2)
-    </li>
+        </li>
+    <li>
+      <strong>2020:</strong> Short press description with hyperlink. [Read more](https://example.com/press2)
+        </li>
     <li>
       <strong>2018:</strong> Short press description with hyperlink. [Read more](https://example.com/press2)
-    </li>
+        </li>
     <li>
       <strong>2016:</strong> Short press description with hyperlink. [Read more](https://example.com/press2)
-    </li>
+        </li>
     <!-- Add more press entries as needed -->
   </ul>
 </div>
