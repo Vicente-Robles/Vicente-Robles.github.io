@@ -68,27 +68,30 @@
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
+      "name": "Computational",
+      "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "SolidWorks CAD",
+        "MATLAB",
+        "Python",
+        "Origin",
+        "ImageJ",
+        "Zemax",
+       "Arduino",
+       "Ansys Fluent CFD",
+       "LabVIEW"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
+      "language": "English",
       "fluency": "Native speaker",
       "icon": ""
     },
     {
-      "language": "English",
+      "language": "Spanish",
       "fluency": "Fluent",
       "icon": ""
     }
