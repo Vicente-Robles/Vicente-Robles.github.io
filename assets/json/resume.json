@@ -82,6 +82,22 @@
        "Ansys Fluent CFD",
        "LabVIEW"
       ]
+    },
+       {
+      "name": "Laboratory",
+      "level": "",
+      "icon": "fa-solid fa-hashtag",
+      "keywords": [
+        "SolidWorks CAD",
+        "MATLAB",
+        "Python",
+        "Origin",
+        "ImageJ",
+        "Zemax",
+       "Arduino",
+       "Ansys Fluent CFD",
+       "LabVIEW"
+      ]
     }
   ],
   "languages": [
