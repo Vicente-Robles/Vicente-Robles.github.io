@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Vicente Robles, PhD",
+    "label": "Scientist & Engineer",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "vicente.jr.robles@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Experienced engineer with expertise in design, data analysis, modeling, and prototyping.",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
