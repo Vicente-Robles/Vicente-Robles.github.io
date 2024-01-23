@@ -50,16 +50,16 @@
       "location": "Riverside, CA",
       "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "2016",
-      "endDate": "2022",
+      "startDate": "2016-01-01",
+      "endDate": "2022-01-01",
     },
       {
       "institution": "Pomona College",
       "location": "Riverside, CA",
       "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "2016",
-      "endDate": "2022",
+      "startDate": "2012-01-01",
+      "endDate": "2016-01-01",
     }
   ],
   "awards": [
