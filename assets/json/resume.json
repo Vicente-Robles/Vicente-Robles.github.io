@@ -59,9 +59,9 @@
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
+      "title": "",
       "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
+      "awarder": " National Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
     }
@@ -88,15 +88,11 @@
       "level": "",
       "icon": "fa-solid fa-hashtag",
       "keywords": [
-        "SolidWorks CAD",
-        "MATLAB",
-        "Python",
-        "Origin",
-        "ImageJ",
-        "Zemax",
-       "Arduino",
-       "Ansys Fluent CFD",
-       "LabVIEW"
+        "Optics",
+        "3D printing",
+        "Test equipment",
+        "Machining and GD&T",
+        "Scanning Electron Microscope (SEM)",
       ]
     }
   ],
