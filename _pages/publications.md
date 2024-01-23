@@ -28,6 +28,5 @@ nav_order: 2
         </li>
     <li>
 
-    <!-- Add more press entries as needed -->
   </ul>
 </div>
