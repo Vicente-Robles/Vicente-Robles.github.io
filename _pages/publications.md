@@ -33,7 +33,7 @@ nav_order: 2
       <p><strong>2018:</strong> Ford Foundation Fellowship- I received the Ford Foundation Predoctoral Fellowship, which supported my research for a duration of three years. <a href=https://news.ucr.edu/articles/2018/05/04/engineering-graduate-student-ford-foundation-fellow">Read more.</a></p>
         </li>
     <li>
-      <strong>2016:</strong> My Nicholas Academic Centers (NAC) Journey
+     <p><strong>2016:</strong> My Nicholas Academic Centers (NAC) Journey</p>
         </li>
     <!-- Add more press entries as needed -->
   </ul>
