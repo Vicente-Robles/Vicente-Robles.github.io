@@ -9,8 +9,8 @@
     "summary": "Experienced engineer with expertise in design, data analysis, modeling, and prototyping.",
     "location": {
       "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "postalCode": "CA",
+      "city": "Laguna Hills",
       "countryCode": "US",
       "region": "California"
     },
@@ -53,14 +53,6 @@
       "startDate": "2016-01-01",
       "endDate": "2022-01-01",
     },
-      {
-      "institution": "Pomona College",
-      "location": "Riverside, CA",
-      "area": "Mechanical Engineering",
-      "studyType": "PhD",
-      "startDate": "2012-01-01",
-      "endDate": "2016-01-01",
-    }
   ],
   "awards": [
     {
