@@ -48,12 +48,18 @@
     {
       "institution": "University of California Riverside",
       "location": "Riverside, CA",
-      "area": "Software Development",
+      "area": "Mechanical Engineering",
       "studyType": "PhD",
-      "startDate": "1905-01-01",
-      "endDate": "1905-01-01",
-      "score": "10",
-      "courses": ["Theory of Relativity"]
+      "startDate": "2016",
+      "endDate": "2022",
+    },
+      {
+      "institution": "Pomona College",
+      "location": "Riverside, CA",
+      "area": "Mechanical Engineering",
+      "studyType": "PhD",
+      "startDate": "2016",
+      "endDate": "2022",
     }
   ],
   "awards": [
