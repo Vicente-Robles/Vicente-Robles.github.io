@@ -35,9 +35,6 @@ nav_order: 2
     <li>
       <strong>2016:</strong> My Nicholas Academic Centers (NAC) Journey
         </li>
-    <li>
-      <strong>2016:</strong> Short press description with hyperlink. [Read more](https://example.com/press2)
-        </li>
     <!-- Add more press entries as needed -->
   </ul>
 </div>
