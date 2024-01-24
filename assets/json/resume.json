@@ -63,15 +63,14 @@
      "highlights": ["Relativity"]
     },
        {
-      "name": "MetroLaser Inc.",
-      "position": "Optical Engineer",
+      "name": "SpaceX",
+      "position": "Avionics Intern",
       "url": "",
-      "startDate": "Aug 2023",
-      "endDate": "Present",
+      "startDate": "Sep 2015",
+      "endDate": "May 2016",
       "summary": [
-       "• Developing a non-intrusive health monitoring system for elemental detection in rocket flows using laser-induced breakdown spectroscopy, with funding by the Department of Defense (DOD)", 
-     "• Engineered and fabricated a high-pressure aerosol generator for laboratory testing of the monitoring system, utilizing SolidWorks CAD for design and machining in construction",
-     "• Ensured compliance with company rules, safety protocols, and EHS guidelines in a clean optical lab, reducing contaminants on optics while meeting deadlines, preparing technical documentation, and submitting reports to funding agencies"
+       "• Utilized SolidWorks to design and construct a high pressurization system to safely validate and extend the NASA TM X-53692 Standard for leak detection in aerospace subsystems", 
+     "• Developed a testing method and protocol to conducted leak classifications using alternate tracer gasses (dry air, and hydrogen-nitrogen mixture) to compare against the industry standard of helium",
      ], 
      "highlights": ["Relativity"]
     }
@@ -121,7 +120,6 @@
         "Origin",
         "ImageJ",
         "Zemax",
-       "Arduino",
        "Ansys Fluent CFD",
        "LabVIEW"
       ]
@@ -133,6 +131,7 @@
       "keywords": [
         "Optics",
         "3D printing",
+       "Arduino and electronic components",
         "Test equipment",
         "Machining and GD&T",
         "Scanning Electron Microscope (SEM)"
