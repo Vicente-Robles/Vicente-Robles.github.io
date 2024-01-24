@@ -5,7 +5,7 @@
       <div class="row">
         <div class="col-xs-10 cl-sm-10 col-md-10">
           <div class="row">
-            <div class="col-md-12" style="margin-left: 10px;">
+            <div class="col-md-12">
               <h6 class="title font-weight-bold ml-1 ml-md-4">
                 <a href="{{ content.url }}">{{ content.position }}</a>
               </h6>
@@ -13,7 +13,7 @@
             </div>
           </div>
         </div>
-        <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px;">
+        <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px; margin-left: -10;">
           {% if content.startDate %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
