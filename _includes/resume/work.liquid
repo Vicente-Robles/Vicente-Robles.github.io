@@ -13,7 +13,7 @@
             </div>
           </div>
         </div>
-        <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px">
+        <div class="col-xs-2 cl-sm-2 col-md-2 text-center" style="width: 75px; margin-left: 0;">
           {% if content.startDate %}
             {% assign startDate = content.startDate | split: '-' | slice: 0, 2 | join: '.' %}
             {% assign endDate = content.endDate | split: '-' | slice: 0, 2 | join: '.' | default: 'Present' %}
@@ -29,7 +29,7 @@
         <div class="col-md-12">
           <h6 class="ml-1 ml-md-4" style="font-size: 0.95rem; font-style: italic; margin-left: 30px;">
             {% for line in content.summary %}
-              {{ line | newline_to_br }}<br><br>
+              {{ line | newline_to_br }}<br>
             {% endfor %}
           </h6>
           <ul class="items">
