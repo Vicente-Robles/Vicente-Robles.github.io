@@ -49,15 +49,16 @@
      "highlights": ["Relativity"]
     },
        {
-      "name": "MetroLaser Inc.",
-      "position": "Optical Engineer",
+      "name": "UC Riverside",
+      "position": "Doctoral Researcher",
       "url": "",
-      "startDate": "Aug 2023",
-      "endDate": "Present",
+      "startDate": "Aug 2016",
+      "endDate": "June 2022",
       "summary": [
-       "• Developing a non-intrusive health monitoring system for elemental detection in rocket flows using laser-induced breakdown spectroscopy, with funding by the Department of Defense (DOD)", 
-     "• Engineered and fabricated a high-pressure aerosol generator for laboratory testing of the monitoring system, utilizing SolidWorks CAD for design and machining in construction",
-     "• Ensured compliance with company rules, safety protocols, and EHS guidelines in a clean optical lab, reducing contaminants on optics while meeting deadlines, preparing technical documentation, and submitting reports to funding agencies"
+       "• Managed research initiatives centered on laser-induced cavitation fluid dynamics with emphasis on microfluidic agitation and material perforation for a needle-free proof of concept ", 
+     "• Designed and implemented complex optical configurations, incorporating both continuous wave and high-energy pulsed lasers",
+     "• Integrated advanced techniques including laser surface texturing, high-speed imaging, fluorescence thermometry, and particle image velocimetry to non-intrusively characterize cavitation events",
+       "• Published 6 research papers, actively mentored 2 undergraduates, and secured a research grant "
      ], 
      "highlights": ["Relativity"]
     },
