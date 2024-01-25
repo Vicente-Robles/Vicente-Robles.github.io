@@ -4,7 +4,7 @@ permalink: /CV/
 title: CV
 nav: true
 nav_order: 5
-cv_pdf: example_pdf.pdf
+cv_pdf: Vicente Robles Resume.pdf
 description: Link to Resume
 toc:
   sidebar: left
