@@ -24,15 +24,15 @@ nav_order: 2
         </li><br>
     <li>
      <strong>2020:</strong> <a href="https://news.ucr.edu/articles/2020/04/29/double-bubbles-pierce-less-trouble">Double bubbles pierce with less trouble</a>- Check out this announcement summarizing my research on double bubbles—exciting news: my paper received editor's pick! 
-        </li>
+        </li><br>
     <li>
         <strong>2020:</strong> <a href="https://www.elvigia.net/general/2020/6/6/estudian-cavitacion-para-fines-medicos-349311.html">Estudian cavitación para fines médicos</a>- Another cover on my double bubble research (in spanish). 
-        </li>
+        </li><br>
       <li>
       <strong>2018:</strong> <a href="https://news.ucr.edu/articles/2018/05/04/engineering-graduate-student-ford-foundation-fellow">Ford Foundation Predoctoral Fellowship</a>- I was awarded the Ford Foundation Predoctoral Fellowship, providing three years of support for my research on using bubbles for needle-free injections.
-        </li>
+        </li><br>
           <li>
      <strong>2016:</strong> <a href="https://www.youtube.com/watch?v=9hUMVcHYBTI">My Nicholas Academic Centers (NAC) Journey</a>- NAC empowers high school students for academic excellence and successful college journeys. 
-        </li>
+        </li><br>
   </ul>
 </div>
