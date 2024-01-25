@@ -9,16 +9,14 @@ nav: true
 nav_order: 2
 ---
 
-/* Adjust the margin for the titles */
 .press h2,
 .publications h2 {
-  margin-left: 0; /* Reset margin for titles */
+  margin-left: 0; 
 }
 
-/* Adjust the padding for the content */
 .press ul,
 .publications ul {
-  padding-left: 20px; /* Adjust padding for content */
+  padding-left: 20px;
 }
 
 <!-- _pages/publications.md -->
