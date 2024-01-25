@@ -8,6 +8,7 @@ related_press: true
 nav: true
 nav_order: 2
 ---
+<style>
 
 .press h2,
 .publications h2 {
@@ -18,6 +19,7 @@ nav_order: 2
 .publications ul {
   padding-left: 20px;
 }
+</style>
 
 <!-- _pages/publications.md -->
 <div class="publications">
