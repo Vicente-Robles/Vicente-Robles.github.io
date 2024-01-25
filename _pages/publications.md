@@ -9,6 +9,18 @@ nav: true
 nav_order: 2
 ---
 
+/* Adjust the margin for the titles */
+.press h2,
+.publications h2 {
+  margin-left: 0; /* Reset margin for titles */
+}
+
+/* Adjust the padding for the content */
+.press ul,
+.publications ul {
+  padding-left: 20px; /* Adjust padding for content */
+}
+
 <!-- _pages/publications.md -->
 <div class="publications">
 <h2>Publications</h2>
