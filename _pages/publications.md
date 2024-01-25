@@ -10,14 +10,6 @@ nav_order: 2
 ---
 
 <!-- _pages/publications.md -->
-<style>
-  .press h2,
-  .publications h2 {
-    margin-left: 0; /* Set left margin to 0 or adjust as needed */
-  }
-</style>
-
-<!-- _pages/publications.md -->
 <div class="publications">
 <h2>Publications</h2>
 {% bibliography papers%}
