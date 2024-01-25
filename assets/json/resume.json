@@ -99,15 +99,6 @@
       "courses": ""
     }
   ],
-  "awards": [
-    {
-      "title": "FORD Predoctoral Felowship",
-      "date": "2018",
-      "awarder": "National Academies of Science, Engineering, and Medicine",
-      "url": "",
-      "summary": "Ford Foundation Fellowships support diverse individuals with superior academic achievement. Aimed at those committed to research, the program seeks scholars who demonstrate promise for future achievement."
-    }
-  ],
   "skills": [
     {
       "name": "Computational",
@@ -136,6 +127,15 @@
         "Machining and GD&T",
         "Scanning Electron Microscope (SEM)"
       ]
+    }
+  ],
+    "awards": [
+    {
+      "title": "FORD Predoctoral Felowship",
+      "date": "2018",
+      "awarder": "National Academies of Science, Engineering, and Medicine",
+      "url": "",
+      "summary": "Ford Foundation Fellowships support diverse individuals with superior academic achievement. Aimed at those committed to research, the program seeks scholars who demonstrate promise for future achievement."
     }
   ],
   "languages": [
