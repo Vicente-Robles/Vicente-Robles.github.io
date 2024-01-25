@@ -20,10 +20,10 @@ nav_order: 2
   <!-- Add your press-related content here -->
   <ul>
       <li>
-         <strong>2021:</strong> <a href="https://www.latinocommunitystage.org/single-post/i-challenge-you-own-this-and-own-a-career-in-stem-vicente-robles">Read more.</a> Empowering Latino Students in STEM- Delve into my STEM education experience as a Latino/a student on Latino Community Stage, a platform dedicated to inspiring early interest in STEM fields.
+         <strong>2021:</strong> <a href="https://www.latinocommunitystage.org/single-post/i-challenge-you-own-this-and-own-a-career-in-stem-vicente-robles">Empowering Latino Students in STEM</a>- Delve into my STEM education experience as a Latino/a student on Latino Community Stage, a platform dedicated to inspiring early interest in STEM fields.
         </li>
     <li>
-     <strong>2020:</strong> Double bubbles pierce with less trouble- Check out this announcement summarizing my research on double bubbles—exciting news: my paper received editor's pick! <a href="https://news.ucr.edu/articles/2020/04/29/double-bubbles-pierce-less-trouble">Read more.</a>
+     <strong>2020:</strong> <a href="https://news.ucr.edu/articles/2020/04/29/double-bubbles-pierce-less-trouble">Double bubbles pierce with less trouble</a>- Check out this announcement summarizing my research on double bubbles—exciting news: my paper received editor's pick! 
         </li>
     <li>
         <strong>2020:</strong> Estudian cavitación para fines médicos- Another cover on my double bubble research (in spanish) <a href="https://www.elvigia.net/general/2020/6/6/estudian-cavitacion-para-fines-medicos-349311.html">Read more.</a>
