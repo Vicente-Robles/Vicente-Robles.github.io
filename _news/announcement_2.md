@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
- 🥇 Successfully completed the FE Mechanical Engineering Exam, bringing me one step closer to PE certification.
+ ✔️ Successfully completed the FE Mechanical Engineering Exam, bringing me one step closer to PE certification.
