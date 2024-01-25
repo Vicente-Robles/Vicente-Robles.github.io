@@ -17,7 +17,7 @@ nav_order: 2
 
 
 <div class="press">
-  <h2>Press</h2>
+<h2>Press</h2>
   <!-- Add your press-related content here -->
   <ul>
       <li>
