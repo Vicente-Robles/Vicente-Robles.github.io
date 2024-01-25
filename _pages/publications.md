@@ -9,12 +9,10 @@ nav: true
 nav_order: 2
 ---
 <style>
-
 .press h2,
 .publications h2 {
   margin-left: 0; 
 }
-
 .press ul,
 .publications ul {
   padding-left: 20px;
