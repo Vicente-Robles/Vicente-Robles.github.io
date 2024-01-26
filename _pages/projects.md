@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /Projects/
-description: A growing collection of your cool projects.
+description: Explore my digital forest. Just as my last name, *Robles*, means 'oak tree' in Spanish, this space is a collection of thriving projects—a demonstration of continuous learning.
 nav: true
 nav_order: 3
 display_categories: [work, fun]
