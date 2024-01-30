@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "",
+        "username": "",
+        "url": ""
       }
     ]
   },
@@ -113,7 +113,8 @@
         "ImageJ",
         "Zemax",
        "Ansys Fluent CFD",
-       "LabVIEW"
+       "LabVIEW",
+       "Arduino"
       ]
     },
        {
@@ -123,10 +124,10 @@
       "keywords": [
         "Optics",
         "3D printing",
-        "Arduino and electronic components",
+        "Electronic components",
         "Test equipment",
         "Machining and GD&T",
-        "Scanning Electron Microscope (SEM)"
+        "Scanning Electron Microscope"
       ]
     }
   ],
@@ -164,12 +165,12 @@
     {
       "language": "English",
       "fluency": "Native speaker",
-      "icon": ""
+      "icon": "fa-solid fa-globe"
     },
     {
       "language": "Spanish",
       "fluency": "Fluent",
-      "icon": ""
+      "icon": "fa-solid fa-globe"
     }
   ]
 }
