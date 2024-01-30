@@ -104,7 +104,7 @@
     {
       "name": "Computational",
       "level": "",
-      "icon": "fa-solid fa-computer",
+      "icon": "fa-solid fa-desktop",
       "keywords": [
         "SolidWorks CAD",
         "MATLAB",
@@ -120,7 +120,7 @@
        {
       "name": "Laboratory",
       "level": "",
-      "icon": "fa-solid fa-screwdriver-wrench",
+      "icon": "fa-solid fa-tools",
       "keywords": [
         "Optics",
         "3D printing",
