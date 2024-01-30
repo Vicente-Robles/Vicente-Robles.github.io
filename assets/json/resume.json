@@ -132,12 +132,33 @@
   ],
     "awards": [
     {
-      "title": "FORD Predoctoral Felowship",
+      "title": "Siegman International School on Lasers",
+      "date": "2020",
+      "awarder": "Optical Society of America",
+      "url": "",
+      "summary": "Program that exposes students to in-depth learning of lasers and their applications from internationally recognized leaders in the field."
+    },
+     {
+      "title": "Predoctoral FORD Foundation Felowship",
       "date": "2018",
       "awarder": "National Academies of Science, Engineering, and Medicine",
       "url": "",
       "summary": "Ford Foundation Fellowships support diverse individuals with superior academic achievement. Aimed at those committed to research, the program seeks scholars who demonstrate promise for future achievement."
-    }
+    },
+    {
+      "title": "2nd Place Presentation Award",
+      "date": "2018",
+      "awarder": "AAAS Pacific Division: Engineering, Technology and Applied Science",
+      "url": "",
+      "summary": "Awarded for high quality oral presentation at the annual meeting of the Pacific Division of AAAS."
+    }, 
+     {
+      "title": "Architecture and Engineering Scholarship",
+      "date": "2015",
+      "awarder": "Orange County Hispanic Education Endowment Fund (HEEF)",
+      "url": "",
+      "summary": "HEEF provides academic scholarships to talented and deserving Hispanic students in Orange County in an effort to inspire, enhance, and improve access to higher education."
+    },
   ],
   "languages": [
     {
