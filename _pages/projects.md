@@ -2,7 +2,7 @@
 layout: page
 title: Projects
 permalink: /Projects/
-description: Explore my digital forest. Just as my last name, Robles, means 'Oak trees' in Spanish, this space is a collection of growing projects—a demonstration of continuous learning.
+description: Explore my digital forest. Just as my last name, Robles, means 'Oak trees' in Spanish, this space is a collection of growing projects and of continuous learning.
 nav: true
 nav_order: 3
 display_categories: [research, fun]
