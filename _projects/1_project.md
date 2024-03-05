@@ -8,7 +8,7 @@ category: research
 related_publications: true
 ---
 
-This study explores the impact of gas-entrapping microstructures made of polydimethylsiloxane (PDMS) on cavitation bubble dynamics near the PDMS surface, comparing it with a smooth surface. The microstructures, created through a scalable laser ablation technique, demonstrated the ability to repel cavitation bubbles by causing entrapped air pockets to expand and oscillate. This research suggests the potential for directing cavitation bubble collapse away from surfaces to reduce erosion or improve microfluidic mixing in low Reynolds number flows.
+This study explores the impact of gas-entrapping microstructures made of polydimethylsiloxane (PDMS) on cavitation bubble dynamics. The microstructures are created through a scalable laser ablation technique and demonstrated the ability to repel cavitation bubbles by causing entrapped air pockets to expand and oscillate. This research suggests the potential for directing cavitation bubble collapse away from surfaces to reduce erosion or improve microfluidic mixing in low Reynolds number flows.
 
 
 <div class="row">
@@ -19,11 +19,11 @@ This study explores the impact of gas-entrapping microstructures made of polydim
         {% include figure.liquid path="assets/img/GEM_microstructures_SEM2.png" title="SEM micrograph" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/CA_sensileDrop.png" title="Contact Angle" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
+    Left) Fabrication of laser-textured structures. Middle) SEM Micrograph of acrylic mold and PDMS cast. Right) Contact angle of sensile water droplet on untreated PDMS and microstructured surface.
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
