@@ -13,13 +13,13 @@ This study explores the impact of gas-entrapping microstructures made of polydim
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/microstructure_fab" title="Laser texturing" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/GEM_microstructures_SEM2.png" title="SEM micrograph" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/img/CA_sensileDrop.png" title="Contact Angle" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid path="assets/img/CA_sensileDrop.png" title="Contact angle" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
