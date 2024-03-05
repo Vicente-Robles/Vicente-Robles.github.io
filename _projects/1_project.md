@@ -27,7 +27,7 @@ This study explores the impact of gas-entrapping microstructures made of polydim
 </div>
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid path="assets/video/GEMS_Supplemental_v1.mp4" title="Bubble dynamics" class="img-fluid rounded z-depth-1" %}
+        {% include video.liquid path="assets/video/GEMS_Supplemental_v1.mp4" title="Bubble dynamics" class="embed-responsive" %}
     </div>
 </div>
 <div class="caption">
