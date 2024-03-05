@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microtextures for cavitation control
-description: Laser-ablated PDMS microstructures repel cavitation, aiding erosion control and enhancing microfluidic mixing at low Reynolds.
+description: Laser-ablated microstructures repel cavitation, aiding erosion control and enhancing microfluidic mixing.
 img: assets/img/GEM_microstructures_SEM2.png
 importance: 1
 category: research
