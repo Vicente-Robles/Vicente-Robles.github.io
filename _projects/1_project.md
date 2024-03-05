@@ -5,7 +5,7 @@ description: Laser-ablated microstructures repel cavitation, aiding erosion cont
 img: assets/img/GEM_microstructures_SEM2.png
 importance: 1
 category: research
-related_publications: false
+related_publications: true
 ---
 
 This study explores the impact of gas-entrapping microstructures made of polydimethylsiloxane (PDMS) on cavitation bubble dynamics. The microstructures are created through a scalable laser ablation technique and demonstrated the ability to repel cavitation bubbles by causing entrapped air pockets to expand and oscillate. This research suggests the potential for directing cavitation bubble collapse away from surfaces to reduce erosion or improve microfluidic mixing in low Reynolds number flows.
