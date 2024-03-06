@@ -25,6 +25,11 @@ This study explores the impact of gas-entrapping microstructures made of polydim
 <div class="caption">
     Left) Fabrication of laser-textured structures. Middle) SEM Micrograph of acrylic mold and PDMS cast. Right) Contact angle of sensile water droplet on untreated PDMS and microstructured surface.
 </div>
+
+You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
+Say you wanted to write a bit about your project before you posted the rest of the images.
+You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid
@@ -36,12 +41,22 @@ This study explores the impact of gas-entrapping microstructures made of polydim
 </div>
 
 <div class="caption">
-    This image can also have a caption. It's like magic.
+Comparison of cavitation dynamics near an untreated, smooth PDMS surface and a representative microstructured surface for three standoff distances.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include video.liquid
+           path="assets/video/GEMS_Supplemental_v1.mp4"
+           title="Bubble dynamics"
+           class="embed-responsive"
+           controls="true" %}
+    </div>
+</div>
+
+<div class="caption">
+Visualization of particle tracking of surrounding flows due to a series of 10 cavitation bubble collapses near an untreated, smooth PDMS surface and a representative microstructured surface. 
+</div>
 
 <div class="row justify-content-sm-center">
     <div class="col-sm-8 mt-3 mt-md-0">
