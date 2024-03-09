@@ -46,7 +46,7 @@ Comparison of cavitation dynamics near an untreated, smooth PDMS surface and a r
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid
            path="assets/video/GEMS_Supplemental_v2.mp4"
-           title="Bubble dynamics"
+           title="Bubble PIV"
            class="embed-responsive"
            controls="true" %}
     </div>
