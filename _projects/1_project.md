@@ -26,9 +26,7 @@ This study explores the impact of gas-entrapping microstructures made of polydim
     Left) Fabrication of laser-textured structures. Middle) SEM Micrograph of acrylic mold and PDMS cast. Right) Contact angle of sensile water droplet on untreated PDMS and microstructured surface.
 </div>
 
-You can also put regular text between your rows of images, even citations {% cite einstein1950meaning %}.
-Say you wanted to write a bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, _bled_ for your project, and then... you reveal its glory in the next row of images.
+Several experiments were conducted over three stand-off distances to quantify the degree of repulsion and stability of the surfaces. In all cases near the untreated surface, the bubble collapses towards the boundary, producing a radially expanding toroidal impact on the surface. In contrast, the microstructured surfaces tend to repel the cavitation bubble while there are sufficient in-tact entrapped air pockets.
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
