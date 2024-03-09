@@ -55,8 +55,3 @@ Comparison of cavitation dynamics near an untreated, smooth PDMS surface and a r
 <div class="caption">
 Visualization of particle tracking of surrounding flows due to a series of 10 cavitation bubble collapses near an untreated, smooth PDMS surface and a representative microstructured surface. 
 </div>
-
-```html
-```
-
-{% endraw %}
