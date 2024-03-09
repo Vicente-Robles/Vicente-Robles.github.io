@@ -45,7 +45,7 @@ Comparison of cavitation dynamics near an untreated, smooth PDMS surface and a r
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include video.liquid
-           path="assets/video/GEMS_Supplemental_v1.mp4"
+           path="assets/video/GEMS_Supplemental_v2.mp4"
            title="Bubble dynamics"
            class="embed-responsive"
            controls="true" %}
@@ -55,13 +55,6 @@ Comparison of cavitation dynamics near an untreated, smooth PDMS surface and a r
 <div class="caption">
 Visualization of particle tracking of surrounding flows due to a series of 10 cavitation bubble collapses near an untreated, smooth PDMS surface and a representative microstructured surface. 
 </div>
-
-The code is simple....
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
 
 ```html
 ```
