@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-😎 Relocated from Boston to the sunny landscapes of Southern California!
+😎 Road-tripped from Boston back to sunny Southern California!
