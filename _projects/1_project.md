@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Microtextures for cavitation control
-description: Laser-ablated microstructures repel cavitation, aiding erosion control and enhancing microfluidic mixing.
+description: 
 img: assets/img/GEM_microstructures_SEM2.png
 importance: 1
 category: research
